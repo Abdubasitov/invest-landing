@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+.chrome-qa-*/
+.qa-*/
+*-desktop.png
+*-mobile.png
+desktop.png
+mobile.png
